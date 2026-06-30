@@ -20,7 +20,7 @@ SECV2223 Web Programming Final Project - Group 8 (Cybernetics)
 3. Open phpMyAdmin and import `database/schema.sql`.
 4. Open `config/config.php` and confirm the database settings.
 5. If the folder name changes, update `BASE_URL`.
-6. Open `http://localhost/UTM_Peer_Tutoring/`.
+6. Open `https://utm-peer-tutoring.great-site.net`.
 
 ## Demo accounts
 All demo accounts use password: `Student123!`
